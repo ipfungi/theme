@@ -1,3 +1,3 @@
-# Jekyll theme
+# Brief notes
 
-this is my jekyll theme for my personal blog.
+This is my jekyll theme for my personal blog. It is a fork of [kaschber](https://github.com/agraphie/kaschber)
